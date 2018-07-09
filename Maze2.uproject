@@ -3,6 +3,16 @@
 	"EngineAssociation": "{731592A7-4A8F-743F-99CC-8FB4D706C867}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Maze2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
